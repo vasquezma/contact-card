@@ -107,12 +107,21 @@ ul{
 
 .btn {
   border-radius: 5px;
+  border-style: none;
   padding: 10px 10px;
   font-size: 13px;
   text-decoration: none;
+  font-family: dinpro;
   margin: 20px;
   color: #fff;
-  background-color: #bd1823;
   position: relative;
   display: inline-block;
+}
+
+.red {
+	background-color: #bd1823;
+}
+
+.green{
+	background-color: #25D366;
 }
